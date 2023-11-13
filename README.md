@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                    Hello! I'm Sofía, currently programming student
+                           Hello! I'm Sofía, currently programming student
 
 <p align="center">
   <img src=https://www.thelearninglab.com.sg/content/dam/tll/term-1-2021/tll_t12021_online.gif width="280" height="240">
