@@ -2,9 +2,8 @@
 <p align="center">Hello everyone,<br>My name is Sofia, and I'm thrilled to introduce myself to you.<br>At 26 years old, 
 I'm currently diving into the world of software development as a JAVA <br>
 and Python Developer. I have a fervent passion for learning and advancing in this field, and I'm<br> 
-eager to embark on this journey of growth and progress.
-
-Currently in this portfolio I only maintain some of the tasks carried out at the university<br> 
+eager to embark on this journey of growth and progress.<br>
+Currently in this portfolio I only maintain some of the tasks carried out at the university<br>
 
 <img src=https://www.thelearninglab.com.sg/content/dam/tll/term-1-2021/tll_t12021_online.gif width="210" height="240">
 </p>
